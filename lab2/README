@@ -1,0 +1,12 @@
+**執行步驟**
+```
+pip install numpy matplotlib pillow tqdm
+```
+**2D DCT**
+```
+python DCT.py --mode 2d
+```
+**Two 1D-DCT**
+```
+python DCT.py --mode 1d
+```
